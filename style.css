@@ -1,0 +1,39 @@
+.heading
+{
+  font-size: 23;
+  width: 100%;
+  margin: 0px;
+}
+
+.note
+{
+  font-size: 15px;
+  color: black;
+}
+
+body
+{
+  background-size: cover;
+}
+
+.div_play
+{
+  float: center;
+}
+
+#play
+{
+  font-size: 23px;
+  margin: 15px;
+}
+
+.div_volume
+{
+  float: right;
+}
+
+#volume
+{
+  font-size: 23px;
+  margin: 15px;
+}
